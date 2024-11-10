@@ -3,11 +3,8 @@
 <h3 align="center">A passionate FullStack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">  
 
-<div align="center">
-<img src="https://avatars.githubusercontent.com/u/60694021?v=4" align="center" height="350" width="350" />
-</div>  
-  
 
+  
 - ☕💻 Transforming coffee into code   
   
 

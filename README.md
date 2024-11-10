@@ -1,5 +1,7 @@
-### <div align="center">I'm Mounesh, a full-time full-stack developer 👨‍💻 working remotely since 2021 🚀</div>  
-  
+
+<h1 align="center">Hi 👋, I'm Mounesh Pattar</h1>
+<h3 align="center">A passionate FullStack Developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">  
 
 <div align="center">
 <img src="https://avatars.githubusercontent.com/u/60694021?v=4" align="center" height="350" width="350" />
@@ -12,7 +14,9 @@
 - 🌐 Master of both worlds: frontend & backend  
   
 
-- 🤖 Architect of digital dreams  
+- 🤖 Architect of digital dreams
+
+- 📫 How to reach me **mouneshp11@gmail.com**
   
 
 <br/>  
